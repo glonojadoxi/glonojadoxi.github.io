@@ -1,6 +1,9 @@
 <HTML>
 <HEAD>
-<TITLE>Strona o Hance</TITLE>
+  <meta charset = "UTF-8">
+  <meta name = "description" content = " Strona o moim życiu i zainteresowaniach">
+  <meta name = "keywords" content = "zwierzęta, ja, książki"
+<TITLE>Strona Główna</TITLE>
 </HEAD>
 
 <BODY style="font-size: 25px;">
