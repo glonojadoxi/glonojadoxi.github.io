@@ -1,0 +1,1 @@
+﻿<?php/*Template Name: Pure Content*/the_content();
